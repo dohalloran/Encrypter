@@ -1,4 +1,5 @@
-## Encrypter. Makes sharing message secure for iPhone and Android devices
+## Encrypter 
+### Makes sharing message secure for iPhone and Android devices
 
 ![Alt text](https://github.com/dohalloran/Encrypter/blob/master/images.png?raw=true "Title")
 
