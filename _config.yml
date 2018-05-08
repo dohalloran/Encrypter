@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 
 title:        "Encrypter"
 tagline:      "Makes sharing secure messages possible"
-#baseurl:      ""
+baseurl:      "https://play.google.com/store/apps/details?id=com.halloran.Encrypter"
 #paginate:     0
 #locale: "en"
 
