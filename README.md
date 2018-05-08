@@ -4,7 +4,8 @@
 ##
 
 <p align="center">
-  <img src="https://github.com/dohalloran/Encrypter/blob/master/images.png">
+  <img src="![images](https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png)
+">
 </p>
 
 - [x] Encrypter allows one user to send encrypted messages to another user free of charge. Encrypter employs end to end encryption that ensure full security every time. 
