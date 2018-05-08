@@ -6,11 +6,13 @@
 
 - Encrypter allows one user to send encrypted messages to another user free of charge
 
-- Employs end to end encryption that ensures full security every time. 
+- Intuitive interface makes Encrypter very easy to use
 
-- Messsages are ecnrypted and sent via email to another user for decryption.
+- Employs end to end encryption that ensures full security every time
 
-- Ideal for sharing passwords or sensitive data.
+- Messsages are ecnrypted and sent via email to another user for decryption
+
+- Ideal for sharing passwords or sensitive data
 
 - Use a default key with friends or a group to share messages easily, quickly, and securely 
 
