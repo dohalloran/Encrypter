@@ -1,10 +1,8 @@
 theme: jekyll-theme-cayman
 
-# Setup
-
 title:        "Encrypter"
 tagline:      "Makes sharing secure messages possible"
-baseurl:      "https://play.google.com/store/apps/details?id=com.halloran.Encrypter"
+#baseurl:      ""
 #paginate:     0
 #locale: "en"
 
