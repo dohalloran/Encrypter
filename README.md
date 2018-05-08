@@ -14,11 +14,7 @@
 
 ### User Interface
 
-<p align="center">
-  <img src="https://github.com/dohalloran/Encrypter/blob/master/encrypted.png">
-  <img src="https://github.com/dohalloran/Encrypter/blob/master/decrypted.png">
-</p>
-
+![encrypted](https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png)
 
 ### App Information
 - [x] Size 6.8 MB
