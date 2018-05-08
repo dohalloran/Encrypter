@@ -1,8 +1,5 @@
-# Encrypter 
 ## Makes sharing secure messages possible
-#### `for iPhone, iPad, and Android devices` 
 ##
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png">
 </div>
@@ -27,9 +24,9 @@
 ### App Information
 - [x] Size 6.8 MB
 - [x] Category Utilities
-- [x] Compatible with Android, iPhone, iPad, and iPod touch
 - [x] Languages 
 - [x] English
 - [x] Age Rating Rated 4+
 - [x] Price free
 
+#### `for iPhone, iPad, and Android devices` 
