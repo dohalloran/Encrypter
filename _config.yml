@@ -8,9 +8,9 @@ tagline:      "Makes sharing secure messages possible"
 #paginate:     0
 #locale: "en"
 
-# About/contact
-#author:
-#  name:       Encrypter
-#  url: https://play.google.com/store/apps/details?id=com.halloran.Encrypter
+About/contact
+author:
+name:       Encrypter
+url: https://play.google.com/store/apps/details?id=com.halloran.Encrypter
 
 show_downloads: true
