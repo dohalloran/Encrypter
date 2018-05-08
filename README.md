@@ -3,7 +3,9 @@
 #### `for iPhone, iPad, and Android devices` 
 ##
 
-![Encrypter LOGO](https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png">
+</div>
 
 - [x] Encrypter allows one user to send encrypted messages to another user free of charge. Encrypter employs end to end encryption that ensure full security every time. 
 
@@ -14,9 +16,13 @@
 
 ### User Interface
 
-![encrypted](https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png">
+</div>
 
-![decrypted](https://user-images.githubusercontent.com/8477977/39731495-e9694712-5235-11e8-88be-b9713ab74aab.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/8477977/39731495-e9694712-5235-11e8-88be-b9713ab74aab.png">
+</div>
 
 ### App Information
 - [x] Size 6.8 MB
