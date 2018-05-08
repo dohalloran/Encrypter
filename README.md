@@ -1,6 +1,6 @@
-## Encrypter 
-### Makes sharing secure messages possible
-### `for iPhone, iPad, and Android devices`
+# Encrypter 
+## Makes sharing secure messages possible
+#### `for iPhone, iPad, and Android devices`
 
 <p align="center">
   <img src="https://github.com/dohalloran/Encrypter/blob/master/images.png">
