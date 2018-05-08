@@ -18,3 +18,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Alt text](https://github.com/dohalloran/Encrypter/blob/master/decrypted.png?raw=true "Decrypted")
 
+
+### App Information
+1. Size 6.8 MB
+2. Category Utilities
+3. Compatible with iPhone, iPad, and iPod touch.
+4. Languages 
+5. English
+6. Age Rating Rated 4+
+7. Price free
+
