@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 
 title:        "Encrypter"
 tagline:      "Makes sharing secure messages possible"
-#baseurl:      ""
-#paginate:     0
-#locale: "en"
+# baseurl:      ""
+# paginate:     0
+# locale: "en"
 
 About/contact
 author:
