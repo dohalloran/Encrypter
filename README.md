@@ -17,9 +17,6 @@
 
 <p align="center">
   <img src="https://github.com/dohalloran/Encrypter/blob/master/encrypted.png">
-</p>
-
-<p align="center">
   <img src="https://github.com/dohalloran/Encrypter/blob/master/decrypted.png">
 </p>
 
