@@ -3,10 +3,7 @@
 #### `for iPhone, iPad, and Android devices` 
 ##
 
-<p align="center">
-  <img src="![images](https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png)
-">
-</p>
+![Encrypter LOGO](https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png)
 
 - [x] Encrypter allows one user to send encrypted messages to another user free of charge. Encrypter employs end to end encryption that ensure full security every time. 
 
