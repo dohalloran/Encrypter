@@ -1,8 +1,10 @@
 ## Encrypter 
-### Makes sharing secure message possible
+### Makes sharing secure messages possible
 ### `for iPhone, iPad, and Android devices`
 
-![Alt text](https://github.com/dohalloran/Encrypter/blob/master/images.png?raw=true "Title")
+<p align="center">
+  <img src="https://github.com/dohalloran/Encrypter/blob/master/images.png">
+</p>
 
 - [x] Encrypter allows one user to send encrypted messages to another user free of charge. Encrypter employs end to end encryption that ensure full security every time. 
 
@@ -13,10 +15,13 @@
 
 ### User Interface
 
+<p align="center">
+  <img src="https://github.com/dohalloran/Encrypter/blob/master/encrypted.png">
+</p>
 
-![Alt text](https://github.com/dohalloran/Encrypter/blob/master/encrypted.png?raw=true "Encrypted")
-
-![Alt text](https://github.com/dohalloran/Encrypter/blob/master/decrypted.png?raw=true "Decrypted")
+<p align="center">
+  <img src="https://github.com/dohalloran/Encrypter/blob/master/decrypted.png">
+</p>
 
 
 ### App Information
