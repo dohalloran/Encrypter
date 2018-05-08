@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### User Interface
 
 
-![Alt text](https://github.com/dohalloran/Encrypter/blob/master/encrypt.png?raw=true "Encrypt")
+![Alt text](https://github.com/dohalloran/Encrypter/blob/master/encrypted.png?raw=true "Encrypted")
 
-![Alt text](https://github.com/dohalloran/Encrypter/blob/master/decrypt.png?raw=true "Decrypt")
+![Alt text](https://github.com/dohalloran/Encrypter/blob/master/decrypted.png?raw=true "Decrypted")
 
