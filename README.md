@@ -16,11 +16,11 @@
 
 ### User Interface
 
-<div>
+<div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png">
 </div>
 
-<div>
+<div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/8477977/39731495-e9694712-5235-11e8-88be-b9713ab74aab.png">
 </div>
 
