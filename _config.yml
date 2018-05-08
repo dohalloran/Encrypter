@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 # Setup
 
 title:        "Encrypter"
-tagline:      "Easily share passwords or messages securely"
+tagline:      "Makes sharing secure messages possible"
 #baseurl:      ""
 #paginate:     0
 #locale: "en"
