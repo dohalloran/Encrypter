@@ -1,4 +1,4 @@
-## Encrypter: Makes sharing secure messages possible
+## Encrypter: makes sharing secure messages possible
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png">
