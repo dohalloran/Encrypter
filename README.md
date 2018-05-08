@@ -14,6 +14,7 @@
 
 - Use a default key with friends or a group to share messages easily, quickly, and securely 
 
+### Screenshot
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png">
 </div>
