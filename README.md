@@ -1,17 +1,18 @@
-## Makes sharing secure messages possible
-##
+## Encrypter: Makes sharing secure messages possible
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/8477977/39731379-55e41ac6-5235-11e8-9423-f365a946856f.png">
 </div>
 
-- [x] Encrypter allows one user to send encrypted messages to another user free of charge. Encrypter employs end to end encryption that ensure full security every time. 
+- Encrypter allows one user to send encrypted messages to another user free of charge
 
-- [x] Messsages are ecnrypted and send via email to another user for decryption.
+- Employs end to end encryption that ensures full security every time. 
 
-- [x] Ideal for sharing passwords or sensitive data 
+- Messsages are ecnrypted and sent via email to another user for decryption.
 
+- Ideal for sharing passwords or sensitive data.
 
-### User Interface
+- Use a default key with friends or a group to share messages easily, quickly, and securely 
 
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/8477977/39731477-c8a132ce-5235-11e8-9f24-3ced43bcd210.png">
