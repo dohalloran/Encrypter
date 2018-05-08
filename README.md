@@ -10,7 +10,6 @@
 
 - [x] Ideal for sharing passwords or sensitive data 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### User Interface
 
