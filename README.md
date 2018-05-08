@@ -10,7 +10,7 @@
 
 - Employs end to end encryption that ensures full security every time
 
-- Messsages are ecnrypted and sent via email to another user for decryption
+- Messsages are encrypted and sent via email to another user for decryption
 
 - Ideal for sharing passwords or sensitive data
 
